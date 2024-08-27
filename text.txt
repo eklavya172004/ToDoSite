@@ -1,9 +1,0 @@
-1) Add Project
-{
-    title,description,due date
- }
-    sanve and cancel
- 2)Tasks
- add Tasks
- display task // clear task
- 
